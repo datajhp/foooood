@@ -1,6 +1,0 @@
-streamlit
-selenium
-beautifulsoup4
-webdriver-manager
-notion-client
-
